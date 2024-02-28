@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Prototype\Prototype\obj\Debug\net6.0\ref\Prototype.dll

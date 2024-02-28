@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\bin\Debug\net6.0\Loner.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\bin\Debug\net6.0\Loner.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\bin\Debug\net6.0\Loner.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\bin\Debug\net6.0\Loner.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\bin\Debug\net6.0\Loner.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\refint\Loner.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\Loner.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\Loner\Loner\obj\Debug\net6.0\ref\Loner.dll

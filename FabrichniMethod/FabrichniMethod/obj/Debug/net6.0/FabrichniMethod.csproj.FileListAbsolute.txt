@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\bin\Debug\net6.0\FabrichniMethod.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\bin\Debug\net6.0\FabrichniMethod.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\bin\Debug\net6.0\FabrichniMethod.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\bin\Debug\net6.0\FabrichniMethod.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\bin\Debug\net6.0\FabrichniMethod.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\refint\FabrichniMethod.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\FabrichniMethod.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_2_KPZ_Maksym_Shyriaiev\FabrichniMethod\FabrichniMethod\obj\Debug\net6.0\ref\FabrichniMethod.dll
